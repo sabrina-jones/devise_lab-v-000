@@ -59,3 +59,5 @@ gem 'devise_invitable'
 
 gem 'omniauth'
 gem 'omniauth-facebook'
+
+gem 'dotenv-rails'
